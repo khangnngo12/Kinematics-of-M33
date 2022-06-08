@@ -1,0 +1,130 @@
+M33D2A_notes.txt:115        11012561 22.47 scat lite, bext shft, fnt cont, over/undersub M33 disk Ha/NII/SII/many othr(!) em lines
+M33D2B_notes.txt:122        11000461 20.59 PN?! over/undersub v strng Ha/NII/SII/paschen ser/many othr! em lines assoc w tgt
+M33D3B_notes.txt: 97         5000208 20.78 paschen ser abs, over/undersub M33 disk Ha/NII/SII/Hb/OIII/many othr! em lines
+M33D3B_notes.txt: 98         5000517 20.63 ext win on os2, fnt cont, os1 v fnt cont, over/undersub M33 disk Ha/NII/SII/Hb/OIII/many othr! em lines
+M33D3D_notes.txt: 43         6004973 23.06 bsky oversub, which is tgt? PN?! top edge, over/undersub M33 disk Ha/NII/SII/Hb/OIII/many othr! em lines, cmplx 2D em line shape for Hb/OIII os1/2 fnt cont
+M33D3D_notes.txt: 55         6011838 23.93 PN?! mod strng cont, over/undersub M33 disk Ha/NII/SII/Hb/OIII/many othr! em lines
+M33D3D_notes.txt:102         8004627 23.09 mod strng cont, M star, over/undersub M33 disk Ha/NII/SII/OIII/many othr! em lines
+M33D3D_notes.txt:179         7000803 21.26 v bsky, noisy CaT, over/undersub M33 disk PN? Ha/NII/SII/many othr! em lines
+A1M33P_notes.txt: 14       MS_329667 19.49 paschen ser abs, over/undersub M33 disk Ha/NII/SII/many othr! v strng em lines (PN?)
+A1M33P_notes.txt: 17       MS_329835 19.83 v strng cont, os1 fnt cont, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+A1M33P_notes.txt: 18       MS_329855 19.71 bad 1D spec (2D spec ok), over/undersub M33 disk Ha/NII/SII/many othr! em lines
+A1M33P_notes.txt: 20       MS_329968 20.32 weak paschen ser abs? over/undersub M33 disk Ha/NII/SII/many othr?! em lines
+A1M33P_notes.txt: 20       serendip1 99.99 os1 vel by hand, over/undersub M33 disk Ha/NII/SII/many othr?! em lines
+A1M33P_notes.txt: 34   RHeB_b_344805 17.91 btempl, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+A1M33P_notes.txt: 38   RHeB_b_344972 18.73 weak CN star! over/undersub M33 disk Ha/NII/SII/many othr! em lines
+A1M33P_notes.txt: 59   BHeB_b_388561 17.65 btempl, v strng paschen ser! over/undersub M33 disk Ha/NII/SII/many othr! em lines
+A1M33P_notes.txt:102       MS_403488 19.51 vel by hand, paschen ser abs, over/undersub M33 disk OIII/Ha/NII/SII/many othr! em lines
+A1M33P_notes.txt:106      AGB_403697 20.79 vel by hand, os1 btm edge fnt cont, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+A1M33P_notes.txt:106       serendip1 99.99 os2 top edge mod strng cont, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+A1M33P_notes.txt:106       serendip2 99.99 os1 btm edge mod strng cont, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+A1M33P_notes.txt:147       MS_442176 18.41 btempl, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+A1M33P_notes.txt:157   BHeB_b_446368 18.59 sl blamb at Hb, sl bcont disc, pascehn ser abs, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+A1M33P_notes.txt:197      CFHT169559 21.33 scat lite, bsky! os1/os3 v fnt cont, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+A1M33P_notes.txt:197       serendip1 99.99 scat lite, os2 noisy CaT, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+A1M33P_notes.txt:197       serendip2 99.99 scat lite, os4 fnt cont, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+A2M33P_notes.txt:  0           KG225 19.43 bspec/bsky, lamb ok at OIII! v strng cont, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+A2M33P_notes.txt: 88       MS_344762 18.01 bspec/bsky, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+A2M33P_notes.txt:144       MS_403681 19.37 bspec/bsky, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+A2M33P_notes.txt:145   RHeB_b_403693 18.95 bspec/bsky, vel by hand, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+A2M33P_notes.txt:206      CFHT169161 21.50 lamb ok at OIII! sl scat lite, sl bspec/sl bsky, v noisy CaT zq=2.5, over/undersub M33 disk Ha/NII/SII/OIII/many othr! em lines
+B1M33P_notes.txt:  3           KG337 23.93 v v blamb at Hb/OIII! fnt cont, os1/os3/os5 mod fnt cont, btm edge/cls to os2/cls to os4, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+B1M33P_notes.txt:  3       serendip1 99.99 v v blamb at Hb/OIII! os2 much brter than tgt, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+B1M33P_notes.txt:  3       serendip2 99.99 v v blamb at Hb/OIII! os4 brter than tgt, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+B1M33P_notes.txt: 19      AGB_186711 20.72 weak CN star! over/undersub M33 disk OIII/Ha/NII/SII/many othr! em lines
+B1M33P_notes.txt: 81       MS_301421 18.75 vel by hand, wk paschen ser abs, os2 top edge mod cont, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+B1M33P_notes.txt: 81       serendip1 99.99 os1 vel ok, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+B1M33P_notes.txt: 89       MS_301866 20.03 paschen ser em lines assoc w star? over/undersub M33 disk v strng Ha/SII/NII/many othr! em lines PN? usual obs!
+B1M33P_notes.txt:119       MS_356799 17.60 lamb ok at Hb! btempl, Ha em line assoc w star! strng paschen ser abs, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+B1M33P_notes.txt:132       MS_367067 18.83 btempl, v v blamb at Hb/OIII! v strng cont, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+B2M33P_notes.txt:  4      RGB_360403 21.19 bext shft/bspec, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+B2M33P_notes.txt:  4       serendip1 99.99 os1 strng cont btm edge, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+B2M33P_notes.txt: 51           KG357 23.12 mod strng blue cont, over/undersub M33 disk Ha/NII/SII/many othr! em lines w rc? or 3 components unusual!
+B2M33P_notes.txt: 79   RHeB_b_268014 19.73 v weak CN star? over/undersub M33 disk Ha/NII/SII/many othr! em lines
+B2M33P_notes.txt: 85      RGB_268425 21.07 noisy CaT, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+B2M33P_notes.txt:101   BHeB_b_275658 19.73 sl blamb at OIII, vel by hand, over/undersub M33 disk OIII/Ha/NII/SII/many othr! em lines
+B2M33P_notes.txt:104   RHeB_b_276296 19.87 blamb at OIII, over/undersub M33 disk OIII/Ha/NII/SII/many othr! em lines
+B2M33P_notes.txt:124       MS_301539 19.82 v strng blue cont, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+B2M33P_notes.txt:138       MS_330175 20.41 sl blamb at Hb/OIII, strng cont, over/undersub M33 disk v strng Hb/OIII/Ha/NII/SII/many, many othr! em lines
+B2M33P_notes.txt:140   RHeB_b_336739 17.09 blamb at Hb/OIII, btempl, vel ok, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many many othr! em lines
+B2M33P_notes.txt:169       MS_368053 20.12 bext too brd, strng blue cont, os1/os3 fnt cont, over/undersub M33 disk v strng Ha/NII/SII/many, many othr! em lines
+B2M33P_notes.txt:169       serendip1 99.99 os1 vel by hand noisy TiO zq=3, over/undersub M33 disk v strng Ha/NII/SII/many, many othr! em lines
+C1M33P_notes.txt: 74       MS_150215 18.68 btempl, FIX! fit for vel, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+C1M33P_notes.txt: 74       serendip1 99.99 os1 sl bcont disc weak CN star! over/undersub M33 disk Ha/NII/SII/many othr! em lines
+C1M33P_notes.txt: 97      RGB_172828 21.45 noisy CaT/TiO, os2/os3 fnt cont, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+C1M33P_notes.txt: 97       serendip1 99.99 os1 v noisy CaT, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+C1M33P_notes.txt:101       MS_180497 19.16 btempl, v brd Ha/othr unID em lines assoc w star! v unusual star! vel by hand, over/undersub M33 disk v strng OIII/Ha/NII/SII/many othr! em lines
+C1M33P_notes.txt:125       MS_207902 19.12 v v blamb at Hb (off by 40-65A)! v v strng blue cont no abs feat, over/undersub M33 disk v strng Ha/NII/SII/many othr! em lines
+C1M33P_notes.txt:144       MS_253614 20.28 sl blamb at OIII, v strng cont, os1/os2 btm/top edge strng/mod cont, over/undersub M33 disk OIII/Ha/NII/SII/many othr! em lines
+C1M33P_notes.txt:160       MS_287502 18.10 v blamb at Hb/OIII (off by 30A)! btempl, v brd+narr strng Ha/many othr! em lines assoc w star! v unusual!!! vel by hand, os1/os2/os3 mod cont, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+C1M33P_notes.txt:164       MS_323338 17.98 v blamb at Hb/OIII (off by 30A), btempl, v brd/strng Ha/Hb/many othr! em lines assoc w star! v unusual star! over/undersub M33 disk v strng Hb/OIII/Ha/NII/SII em lines
+C2M33P_notes.txt: 79   BHeB_b_137149 18.50 lamb ok at Hb/OIII! bcol[R] bspec 7250-8250A, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+C2M33P_notes.txt: 79       serendip1 99.99 lamb ok at Hb/OIII! os1 fnt cont, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+C2M33P_notes.txt: 92   RHeB_b_150739 19.15 vel by hand, weak CN star! os1/os2/os3 fnt/fnt/strng cont os1/os3 btm/top edges, over/undersub M33 disk Ha/NII/SII/many othr em lines
+C2M33P_notes.txt: 99      AGB_168812 20.00 weak CN star! os2 fnt cont, over/undersub M33 disk Ha/NII/SII/many othr em lines
+C2M33P_notes.txt: 99       serendip1 99.99 os1 bext too brd incl tgt, over/undersub M33 disk Ha/NII/SII/many othr em lines
+C2M33P_notes.txt:100   BHeB_b_168827 19.35 v bcont disc, weak CN star? os1 btm edge strng cont, over/undersub M33 disk Ha/NII/SII/many othr em lines
+C2M33P_notes.txt:104       MS_180458 18.08 v brd unID em lines assoc w star, v unusual spec!! os1/os2/os3/os4 fnt/mod/fnt/mod cont os1/os4 btm/top edges, over/undersub M33 disk OIII/Ha/NII/SII/many othr em lines
+C2M33P_notes.txt:107       MS_180627 20.22 v strng featureless cont, os1/os2 mod fnt/mod fnt cont btm/top edges, over/undersub M33 disk Ha/NII/SII/many othr em lines
+C2M33P_notes.txt:110      AGB_180948 20.34 carbon star! over/undersub M33 disk Ha/NII/SII/many othr! em lines
+C2M33P_notes.txt:118       MS_184958 19.42 sl blamb at Hb (off by 1A), strng cont, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr em lines
+C2M33P_notes.txt:118       serendip1 99.99 sl blamb at Hb (off by 1A), os1 noisy CaT, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr em lines
+C2M33P_notes.txt:189      CFHT220842 19.98 blamb at OIII, vel by hand, os2/os4/os5 fnt/fnt/strng cont os5 top edge, over/undersub M33 disk OIII/Ha/NII/SII/many othr! em lines
+C2M33P_notes.txt:189       serendip1 99.99 blamb at OIII, os3 mod cont, over/undersub M33 disk OIII/Ha/NII/SII/many othr! em lines
+C2M33P_notes.txt:189       serendip2 99.99 blamb at OIII, os1 fnt cont, over/undersub M33 disk OIII/Ha/NII/SII/many othr! em lines
+D1M33P_notes.txt: 17      BHeB_b_362 18.55 v strng paschen ser abs, vel by hand, over/undersub M33 disk v strng Ha/NII/SII/many othr! em lines
+D1M33P_notes.txt: 80        RGB_9701 21.15 scat lite, noisy CaT, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+D1M33P_notes.txt: 80       serendip1 99.99 scat lite, os1 v fnt cont, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+D1M33P_notes.txt: 95        MS_54454 18.64 lamb ok at OIII! vel by hand, paschen ser abs, over/undersub M33 disk v strng OIII/Ha/NII/SII/many othr! em lines
+D1M33P_notes.txt: 95       serendip1 99.99 lamb ok at OIII! os1 top edge much brter than tgt strng brd Ha em line assoc w tgt? over/undersub M33 disk v strng OIII/Ha/NII/SII/many othr! em lines
+D1M33P_notes.txt:130       RGB_59524 20.94 lamb ok at Hb! noisy TiO/CaT, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+D1M33P_notes.txt:130       serendip1 99.99 lamb ok at Hb! os1 PN? Hb/OIII/Ha/NII/SII/many othr! em lines
+D1M33P_notes.txt:131       RGB_60738 20.99 v blamb at Hb/OIII! noisy CaT, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+D1M33P_notes.txt:136       RGB_62791 21.02 noisy TiO/CaT, os1 PN? Hb/OIII/Ha/NII/SII/many othr! em lines
+D2M33P_notes.txt:  6        RGB_9701 21.15 scat lite, sl noisy CaT, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+D2M33P_notes.txt: 12       RGB_62791 21.02 noisy CaT, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+D2M33P_notes.txt:109        MS_54323 17.75 paschen ser abs, over/undersub M33 disk Ha/NII/SII/many othr em lines
+D2M33P_notes.txt:147    BHeB_b_60894 20.21 bsky[B] paschen ser abs, over/undersub M33 disk Ha/NII/SII/many othr em lines
+E1M33P_notes.txt: 22        AGB_1364 20.22 v blamb at Hb! vel ok, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+E1M33P_notes.txt: 32        AGB_2824 20.08 v blamb at Hb/OIII, fg mw M dwf strng TiO/Na dblt, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+E1M33P_notes.txt: 32       serendip1 99.99 v blamb at Hb/OIII, os1 bcont disc mod strng cont, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+E1M33P_notes.txt: 51         MS_4903 20.34 blamb at Hb/OIII, vel by hand wk/noisy paschen ser abs, over/undersub M33 disk v strng Hb/OIII/Ha/NII/SII/many othr! em lines
+E1M33P_notes.txt: 72       RGB_10960 21.15 v blamb at Hb/OIII (off by ~20A), vel ok, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+E1M33P_notes.txt:143        MS_60411 20.82 blamb at Hb/OIII! paschen ser em lines assoc w star! unusual star! over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+E2M33P_notes.txt:  8       RGB_10960 21.15 v blamb at Hb/OIII (off by 20A), vel ok, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+E2M33P_notes.txt:  8       serendip1 99.99 v blamb at Hb/OIII (off by 20A), os1 v fnt cont, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+E2M33P_notes.txt: 73          MS_810 19.29 blamb at Hb/OIII! v strng cont, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+E2M33P_notes.txt: 94        AGB_3183 20.46 blamb at Hb/OIII, sl scat lite, vel ok, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+E2M33P_notes.txt:110        RGB_7986 21.15 lamb ok at Hb/OIII! vel ok, over/undersub M33 disk v strng Hb/OIII/Ha/NII/SII/many othr! em lines
+E2M33P_notes.txt:110       serendip1 99.99 lamb ok at Hb/OIII! os1? em lines unusual spec! over/undersub M33 disk v strng Hb/OIII/Ha/NII/SII/many othr! em lines
+E2M33P_notes.txt:157        MS_59347 20.44 v blamb at Hb/OIII, vel by hand paschen ser abs, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+E2M33P_notes.txt:173        MS_64066 20.74 v blamb at Hb/OIII (off by 60A!), v strng cont, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+E2M33P_notes.txt:173       serendip1 99.99 v blamb at Hb/OIII (off by 60A!), os2 mod fnt blue cont, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+E2M33P_notes.txt:173       serendip2 99.99 v blamb at Hb/OIII (off by 60A!), os1 v noisy CaT zq=2.5, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+K1M33P_notes.txt: 26       MS_329628 17.65 lamb ok at OIII! paschen ser abs, over/undersub M33 disk OIII/Ha/NII/SII/many othr! em lines
+K1M33P_notes.txt: 27       MS_329667 19.49 lamb ok at OIII! paschen ser abs, os1 mod strng cont btm edge, over/undersub M33 disk OIII/Ha/NII/SII/many othr! em lines
+K1M33P_notes.txt: 30       MS_329855 19.71 lamb ok at OIII! v strng cont, os1 at btm edge/cls os2/os3 strng/fnt/mod cont, over/undersub M33 disk OIII/Ha/NII/SII/many othr! em lines
+K1M33P_notes.txt: 94   BHeB_b_388561 17.65 blamb at OIII, btempl, bcont disc, vel by hand zq=3 v strng paschen ser, over/undersub M33 disk OIII/Ha/NII/SII/many othr! em lines
+K1M33P_notes.txt:105      AGB_394139 17.25 btempl, weak CN star! over/undersub M33 disk super strng Ha/NII/SII/many othr! em lines
+K1M33P_notes.txt:112   BHeB_b_394378 19.47 blamb at Hb, paschen ser abs, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+K1M33P_notes.txt:123       MS_403391 17.88 sl blamb at Hb/OIII, vel by hand strng paschen ser abs, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+K1M33P_notes.txt:140   BHeB_b_413200 19.38 blamb at Hb/OIII, strng paschen ser abs, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+K1M33P_notes.txt:212      CFHT187245 21.89 scat lite, bext shft off tgt, strng v blue cont, os1 strng cont top edge, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+D1M33R_notes.txt:117       RGB_61837 21.07 mod strng cont, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+D2M33R_notes.txt: 93       RGB_59524 20.94 bsky oversub, fnt cont, os1 strng cont, over/undersub M33 disk v strng Ha/NII/SII/many othr! em lines
+D2M33R_notes.txt:105       AGB_61331 20.93 noisy TiO/CaT, over/undersub M33 disk v strng Ha/NII/SII/many othr! em lines
+E1M33R_notes.txt: 19        RGB_7986 21.15 blamb at Hb/OIII! vel by hand noisy CaT zq=3, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+E1M33R_notes.txt: 26        RGB_8817 21.02 lamb ok at Hb/OIII! bext shft off tgt, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+E1M33R_notes.txt: 26       serendip1 99.99 lamb ok at Hb/OIII! os1 btm edge v fnt cont, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+E1M33R_notes.txt: 36       RGB_10695 21.13 lamb ok at Hb/OIII! strng cont, over/undersub M33 disk wk Hb/OIII/Ha/NII/SII/many othr! em lines
+E1M33R_notes.txt: 36       RGB_10695 21.13 lamb ok at Hb/OIII! os1 near top edge bcol[B] bspec 6500-7050A noisy CaT, over/undersub M33 disk wk Hb/OIII/Ha/NII/SII/many othr! em lines
+E1M33R_notes.txt: 38       RGB_10960 21.15 blamb at Hb/OIII! noisy TiO? sl noisy CaT, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr em lines
+E1M33R_notes.txt: 38       serendip1 99.99 blamb at Hb/OIII! os1 v fnt cont, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr em lines
+E1M33R_notes.txt: 43       RGB_12845 21.25 sl noisy CaT, over/undersub M33 disk OIII?/Ha/NII/SII/many othr! em lines
+E1M33R_notes.txt: 49       RGB_17248 21.66 lamb ok at Hb/OIII! mod fnt cont, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+E1M33R_notes.txt: 53       RGB_19049 21.68 lamb ok at Hb/OIII! strng cont, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+E1M33R_notes.txt: 53       serendip1 99.99 lamb ok at Hb/OIII! os1 v fnt cont, over/undersub M33 disk Hb/OIII/Ha/NII/SII/many othr! em lines
+E2M33R_notes.txt:  0         AGB_584 19.57 vel ok, over/undersub M33 disk Ha/NII/SII/many othr! em lines
+E2M33R_notes.txt: 59       RGB_12159 21.38 vel ok, over/undersub M33 disk v strng Ha/NII/SII/many othr! em lines
+E2M33R_notes.txt: 69       RGB_16156 21.43 btempl noisy CaT, over/undersub M33 disk v strng Ha/NII/SII/many othr! em lines
+E2M33R_notes.txt:154       RGB_66617 20.90 missing 1dspec[B], vel ok,, over/undersub M33 disk v strng Ha/NII/SII/many othr! em lines
