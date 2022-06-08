@@ -15,7 +15,7 @@
 **Redshift.csv** - Comma-separated values file containing: Mask Name, Slit Number, RA, Dec, OBJID, H-alpha velocity, QOP.\
 **Redshift (Incl. CO and HI).csv** - Updated version of Redshift.csv with extra columns representing HI and CO velocities.
 
-**EMISSION LINES THAT ARE VISISBLE IN MANY SPECTRA:**\
+**EMISSION LINES THAT ARE VISIBLE IN MANY SPECTRA:**\
 List of Emission Lines:\
 Hα - 6562.82 Å\
 NII - 6548.10 Å and 6583.60 Å\
