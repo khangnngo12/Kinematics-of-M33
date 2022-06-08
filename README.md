@@ -3,7 +3,7 @@
 **Sky_Subtraction.ipynb** - Notebook used to perform sky subtraction and organize data into MARZ friendly format. 1/7 is the most updated ver.\
 **Shifting_then_scaling.ipynb** - Aparajito's shift first then scale method.\
 **Velocity_Map.ipynb** - Notebook used to create color-coded velocity map using redshifts.\
-**BPT_Diagram.ipynb** - Notebook used to create BPT Diagram.
+**BPT_Diagram.ipynb** - Notebook used to create BPT Diagram.\
 **py_specrebin.py** - Old rebinning code.\
 **py_specrebin_vec.py** - Updated rebinning code (faster).
 
