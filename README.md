@@ -5,7 +5,11 @@
 **Velocity_Map.ipynb** - Notebook used to create color-coded velocity map using redshifts.\
 **BPT_Diagram.ipynb** - Notebook used to create BPT Diagram.\
 **py_specrebin.py** - Old rebinning code.\
-**py_specrebin_vec.py** - Updated rebinning code (faster).
+**py_specrebin_vec.py** - Updated rebinning code (faster).\
+**BPT_Ratios.csv** - Comma-separated values file containing ratios used to create BPT diagrams.\
+**BPT_Ratios_WST.csv** - BPT_Ratios.csv but starlight is NOT removed.\
+**Redshift.csv** - Comma-separated values file containing: Mask Name, Slit Number, RA, Dec, OBJID, H-alpha velocity, QOP.\
+**Redshift (Incl. CO and HI).csv** - Updated version of Redshift.csv with extra columns representing HI and CO velocities.
 
 List of Emission Lines:\
 Hα - 6562.82 Å\
