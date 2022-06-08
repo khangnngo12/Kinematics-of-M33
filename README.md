@@ -5,7 +5,7 @@
 **Velocity_Map.ipynb** - Notebook used to create color-coded velocity map using redshifts.\
 **BPT_Diagram.ipynb** - Notebook used to create BPT Diagram.
 **py_specrebin.py** - Old rebinning code.\
-**py_specrebin_vec.py** - Updated rebinning code (faster).\
+**py_specrebin_vec.py** - Updated rebinning code (faster).
 
 List of Emission Lines:\
 Hα - 6562.82 Å\
