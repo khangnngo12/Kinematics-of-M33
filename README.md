@@ -6,6 +6,9 @@
 **BPT_Diagram.ipynb** - Notebook used to create BPT Diagram.\
 **py_specrebin.py** - Old rebinning code.\
 **py_specrebin_vec.py** - Updated rebinning code (faster).\
+**smooth_keven.py** - Program designed for the smoothing process.\
+**ISM_EM_LINES.txt** - Text file containing list of slits containing strong ISM emission lines.\
+**RELIKS.txt** - Text file containing list of slits containing possible Rare Emission lines.
 **BPT_Ratios.csv** - Comma-separated values file containing ratios used to create BPT diagrams.\
 **BPT_Ratios_WST.csv** - BPT_Ratios.csv but starlight is NOT removed.\
 **Redshift.csv** - Comma-separated values file containing: Mask Name, Slit Number, RA, Dec, OBJID, H-alpha velocity, QOP.\
