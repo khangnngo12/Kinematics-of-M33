@@ -13,7 +13,7 @@ Items with * = Most recent/revelant.
 **Full_Auto.ipynb** - Main notebook used to perform sky subtraction and optimization. Original data is extracted and sky subtraction is performed.\
 **ISM_EM_LINES.txt** - Text file containing list of slits containing strong ISM emission lines.\
 **Overview.ipynb** - Notebook detailing all results produced and methods used as of June 2022.\
-**RELIKS.txt** - Text file containing list of slits containing possible Rare Emission lines.
+**RELIKS.txt** - Text file containing list of slits containing possible Rare Emission lines.\
 **Redshift (Incl. CO and HI).csv** - Updated version of Redshift.csv with extra columns representing HI and CO velocities.\
 **Redshift.csv** - Comma-separated values file containing: Mask Name, Slit Number, RA, Dec, OBJID, H-alpha velocity, QOP.\
 **Shifting_then_scaling.ipynb** - Aparajito's shift first then scale method.\
