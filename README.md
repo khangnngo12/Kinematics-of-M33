@@ -14,7 +14,7 @@ Items with * = Most recent/revelant.
 **ISM_EM_LINES.txt** - Text file containing list of slits containing strong ISM emission lines.\
 **Overview.ipynb** - Notebook detailing all results produced and methods used as of June 2022.\
 **RELIKS.txt** - Text file containing list of slits containing possible Rare Emission lines.
-**Redshift (Incl. CO and HI).csv** - Updated version of Redshift.csv with extra columns representing HI and CO velocities.
+**Redshift (Incl. CO and HI).csv** - Updated version of Redshift.csv with extra columns representing HI and CO velocities.\
 **Redshift.csv** - Comma-separated values file containing: Mask Name, Slit Number, RA, Dec, OBJID, H-alpha velocity, QOP.\
 **Shifting_then_scaling.ipynb** - Aparajito's shift first then scale method.\
 **Sky_Subtraction.ipynb** - Notebook used to perform sky subtraction and organize data into MARZ friendly format. 1/7 is the most updated ver.\
