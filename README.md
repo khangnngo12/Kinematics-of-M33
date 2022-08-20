@@ -1,10 +1,14 @@
 # Depository For All Files Related To The Research Project "Kinematics of M33"
 **DESCRIPTION OF EACH FILE:**\
+
+**BPT_Diagram.ipynb** - Notebook used to create BPT Diagram (Old Method).\
+**BPT_EM_LINES.txt** - Sub-list of ISM_EM_LINES.txt of spectra that are marked with Hb.\
+** *BPT_Integral.ipynb** - 
 **Full_Auto.ipynb** - Main notebook used to perform sky subtraction and optimization. Original data is extracted and sky subtraction is performed.\
 **Sky_Subtraction.ipynb** - Notebook used to perform sky subtraction and organize data into MARZ friendly format. 1/7 is the most updated ver.\
 **Shifting_then_scaling.ipynb** - Aparajito's shift first then scale method.\
 **Velocity_Map.ipynb** - Notebook used to create color-coded velocity map using redshifts.\
-**BPT_Diagram.ipynb** - Notebook used to create BPT Diagram (Old Method).\
+
 **py_specrebin.py** - Old rebinning code.\
 **py_specrebin_vec.py** - Updated rebinning code (faster).\
 **smooth_keven.py** - Program designed for the smoothing process.\
