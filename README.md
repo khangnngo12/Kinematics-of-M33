@@ -1,7 +1,7 @@
 # Depository For All Files Related To The Research Project "Kinematics of M33"
 **DESCRIPTION OF EACH FILE:**\
 
-**Items with *** = Most recent/revelant
+**Items with *** = Most recent/revelant.\
 
 **BPT_Diagram.ipynb** - Notebook used to create BPT Diagram (Old Method).\
 **BPT_EM_LINES.txt** - Sub-list of ISM_EM_LINES.txt of spectra that are marked with Hb.\
